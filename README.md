@@ -9,5 +9,5 @@ year={2025},
 eprint={2507.11799}, 
 archivePrefix={arXiv}, 
 primaryClass={physics.comp-ph}, 
-url={https://arxiv.org/abs/2507.11799}
+url={ https://arxiv.org/abs/2507.11799 }
 }
