@@ -1,7 +1,8 @@
-# Fragment-Size-Density-Estimator-for-Shrinkage-Induced-Fracture-Based-on-PINN
+# Fragment　Size　Density　Estimator　for　Shrinkage-Induced Fracture Based on a Physics-Informed Neural Network
 
 Please cite as
 
+```bibtex
 @misc{ito2025fragment,
 title={Fragment size density estimator for shrinkage-induced fracture based on a physics-informed neural network}, 
 author={Shin-ichi Ito}, 
