@@ -3,12 +3,16 @@
 Please cite as
 
 ```bibtex
-@misc{ito2025fragment,
-title={Fragment size density estimator for shrinkage-induced fracture based on a physics-informed neural network}, 
-author={Shin-ichi Ito}, 
-year={2025}, 
-eprint={2507.11799}, 
-archivePrefix={arXiv}, 
-primaryClass={physics.comp-ph}, 
-url={ https://arxiv.org/abs/2507.11799 }
+@article{doi:10.7566/JPSJ.94.104001,
+author = {Shin-ichi Ito},
+title = {Fragment Size Density Estimator for Shrinkage-Induced Fracture Based on a Physics-Informed Neural Network},
+journal = {Journal of the Physical Society of Japan},
+volume = {94},
+number = {10},
+pages = {104001},
+year = {2025},
+doi = {10.7566/JPSJ.94.104001},
+url = { https://doi.org/10.7566/JPSJ.94.104001 }
 }
+
+
